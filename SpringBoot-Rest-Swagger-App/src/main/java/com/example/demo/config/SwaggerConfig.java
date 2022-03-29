@@ -34,9 +34,8 @@ public class SwaggerConfig {
 					"1.0",
 					"Terms of service", 
 					 new Contact(
-							 "Ashok", 
-							 "http://www.ashokit.com/", 
-							 "ashokitschool@gmail.com"
+							 "Tanmay Khandual"
+							 
 					),
 					"Apache License Version 2.0",
 					"https://www.apache.org/licenses/LICENSE-2.0"
